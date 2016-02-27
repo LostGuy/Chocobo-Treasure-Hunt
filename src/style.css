@@ -1,0 +1,138 @@
+#stage
+{
+	margin: 0px auto;
+	position: relative;
+	width: 384px;
+	height: 384px;
+	background-image: url("../images/chocoboMap.jpg");
+}
+
+#steiner
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/steiner.jpg");
+	display: none;
+	top: 94px;
+	left:621px;
+}
+
+#quina
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/quina.jpg");
+	display: none;
+	top: 222px;
+	left:621px;
+}
+
+#vivi
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/vivi.jpg");
+	display: none;
+	top: 94px;
+	left: 749px;
+}
+
+#freya
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/freya.jpg");
+	display: none;
+	top: 222px;
+	left: 877px;
+
+}
+
+#dagger
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/dagger.jpg");
+	display: none;
+	top: 350px;
+	left: 621px;
+}
+
+#eiko
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/eiko.jpg");
+	display: none;
+	top: 94px;
+	left: 877px;
+}
+
+#zidane
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/zidane.jpg");
+	display: none;
+	top: 350px;
+	left: 877px;
+}
+
+#amarant
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/amarant.jpg");
+	display: none;
+	top: 350px;
+	left:749px;
+}
+
+#fflogo
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/ffixlogo.jpg");
+	display: none;
+	top: 222px;
+	left:749px;
+}
+
+.cell
+{
+	display: block;
+	position: absolute;
+	width: 64px;
+	height: 64px;
+}
+
+p
+{
+	margin: 0px auto;
+	width: 400px;
+	text-align: center;
+	color: yellow;
+	font-size: 15;
+}
+
+h1
+{
+	font-size: 20;
+	text-align: center;
+	color: yellow;
+}
+
+body
+{
+	text-align: center;
+	background-color: #000000;
+}
